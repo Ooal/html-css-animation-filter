@@ -6,3 +6,11 @@
   background-color: red;
 }
 /* es 1*/
+
+/* es 2*/
+.ex-2-square{
+  transition: 4s;
+}
+.ex-2-square:active{
+  width: 100%;
+}
