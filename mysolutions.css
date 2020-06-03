@@ -45,3 +45,9 @@
   transform: scale(0.5);
 }
 /* es 5*/
+
+/* es 6*/
+.ex-6-img:hover{
+  filter: grayscale(1);
+}
+/* es 6*/
