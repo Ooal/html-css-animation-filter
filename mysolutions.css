@@ -70,3 +70,14 @@
   border-radius: 30px;
 }
 /* es 8*/
+
+/* es 9*/
+.ex-9-img{
+  transition: 2s;
+}
+.ex-9-img:hover{
+  transform: scale(1.5);
+  filter: grayscale(0.5) sepia(0.5);
+  border-radius: 30px;
+}
+/* es 9*/
