@@ -95,3 +95,26 @@
 }
 }
 /* es 10*/
+
+/* es 11*/
+.ex-11-icon:hover{
+    animation: giratre 2s linear;
+}
+@keyframes giratre{
+0% {
+  transform: rotate(0);
+}
+30% {
+  transform: rotate(90deg);
+}
+60% {
+  transform: rotate(180deg);
+}
+90% {
+  transform: rotate(270deg);
+}
+100% {
+  transform: rotate(0);
+}
+}
+/* es 11*/
