@@ -81,3 +81,17 @@
   border-radius: 30px;
 }
 /* es 9*/
+
+/* es 10*/
+.ex-10-icon{
+  animation: gira 1s infinite linear;
+}
+@keyframes gira{
+0% {
+  transform: rotate(0);
+}
+100% {
+  transform: rotate(1turn);
+}
+}
+/* es 10*/
